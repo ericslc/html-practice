@@ -1,0 +1,28 @@
+html{
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body{
+  background-color: lightgray;
+}
+
+.div1{
+  background-color: #444444;
+  height: 150px;
+  width: 100%;
+
+}
+.div2{
+  background-color: #ffffff;
+  height: 75vh;
+  width:800px;
+  margin:0 100px 0 100px;
+}
+.div3{
+  background-color: #222222;
+  height: 75px;
+  width:800px;
+  margin: 0 100px 0 100px;
+}
