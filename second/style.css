@@ -1,0 +1,39 @@
+html{
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+.div1{
+  background-color:#3399ff;
+  height: 100vh;
+  width: 33%;
+  float: left;
+}
+.div2{
+  background-color:#99ffcc;
+  height: 100vh;
+  width: 34%;
+  display: inline-block;
+}
+.div3{
+  background-color: #ccff99;
+  height: 100vh;
+  width: 33%;
+  float: right;
+}
+.div4{
+  background-color: red;
+  height: 150px;
+  width: 33%;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  }
+p{
+  font-size: 25px;
+  color: white;
+  text-align: center;
+}

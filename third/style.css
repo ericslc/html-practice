@@ -1,0 +1,46 @@
+html{
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+  .div1{
+    background-color: lightgray;
+    height: 120px;
+    width: 100%;
+    overflow: auto;
+    }
+.smallbox{
+  background-color: #6495ED;
+  height: 85px;
+  width: 85px;
+  margin: 15px 0 15px 20px;
+}
+  .div2{
+    background-color: #ffffff;
+    height: 250px;
+    width: 100%;
+  }
+  .div2nd{
+    background-color: #6495ed;
+    height:120px;
+    width: 100%;
+  }
+.div3{
+  background-color: #66cdaa;
+  height: 120px;
+  width: 100%;
+
+}
+.div4{
+  background-color: #cbff66;
+  height: 120px;
+  width: 100%;
+  }
+.div5{
+  background-color: #feff00;
+  height:120px;
+  width: 100%;
+
+}
