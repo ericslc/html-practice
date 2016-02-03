@@ -7,40 +7,44 @@ html{
 
   .div1{
     background-color: lightgray;
-    height: 120px;
+    height: 95px;
     width: 100%;
     overflow: auto;
     }
 .smallbox{
   background-color: #6495ED;
-  height: 85px;
-  width: 85px;
-  margin: 15px 0 15px 20px;
+  height: 75px;
+  width: 75px;
+  margin: 10px 0 10px 20px;
 }
   .div2{
     background-color: #ffffff;
-    height: 250px;
+    height: 200px;
     width: 100%;
+  }
+  p{
+    font-family: Arial;
+    font-size: 16px;
   }
   .div2nd{
     background-color: #6495ed;
-    height:120px;
+    height:110px;
     width: 100%;
   }
 .div3{
-  background-color: #66cdaa;
-  height: 120px;
+  background-color: #66ffcc;
+  height: 110px;
   width: 100%;
 
 }
 .div4{
-  background-color: #cbff66;
-  height: 120px;
+  background-color: #b8e986;
+  height: 110px;
   width: 100%;
   }
 .div5{
-  background-color: #feff00;
-  height:120px;
+  background-color: #f8e71c;
+  height:110px;
   width: 100%;
 
 }
